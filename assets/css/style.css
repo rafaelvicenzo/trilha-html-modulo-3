@@ -11,6 +11,7 @@ a { color:blue; text-decoration: none;}
     border-top: solid 1px #cdcdcd;
     border-bottom: solid 1px #cdcdcd;
 }
+
 .content {
     max-width: 1440px;
     margin: auto;
@@ -29,10 +30,16 @@ a { color:blue; text-decoration: none;}
 .anchors {
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;
+   
 }
 .sidebar {
     border-right: solid 1px #cdcdcd;
+    
+    
+    
 }
 figure {
     text-align: center;
 }
+
+
